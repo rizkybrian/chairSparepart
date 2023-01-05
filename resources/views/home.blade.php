@@ -150,9 +150,9 @@
 </section>
 <section>
         <div class="container">
-            <div class="row row-cols-4">
-                <div class="col">
-                    <div class="card" style="width: 100%;">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="card">
                         <img src="img/produk1.jpg" class="card-img-top" style="width:100%; height: 250px; padding: 2%;" alt="produk1">
                         <div class="card-body">
                             <h5 class="card-title">Nama Produk</h5>
@@ -161,8 +161,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
-                    <div class="card" style="width: 100%;">
+                <div class="col-md-6">
+                    <div class="card">
                         <img src="img/produk2.jpeg" class="card-img-top" style="width:100%; height: 250px; padding: 2%;" alt="produk2">
                         <div class="card-body">
                             <h5 class="card-title">Nama Produk</h5>
@@ -171,8 +171,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
-                    <div class="card" style="width: 100%;" >
+                <div class="col-md-6">
+                    <div class="card" >
                         <img src="img/produk3.jpeg" class="card-img-top" style="width:100%; height: 250px; padding: 2%;" alt="produk3">
                         <div class="card-body">
                             <h5 class="card-title">Nama Produk</h5>
@@ -181,8 +181,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
-                    <div class="card" style="width: 100%;" >
+                <div class="col-md-6">
+                    <div class="card" >
                         <img src="img/produk4.jpg" class="card-img-top" style="width:100%; height: 250px; padding: 2%;" alt="produk3">
                         <div class="card-body">
                             <h5 class="card-title">Nama Produk</h5>
